@@ -1,0 +1,19 @@
+{
+  "name": "lim",
+  "version": "1.0.0",
+  "description": "react Cli command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.12",
+    "ora": "^7.0.1"
+  },
+  "bin": "bin/entry"
+}
